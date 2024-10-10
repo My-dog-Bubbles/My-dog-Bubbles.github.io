@@ -44,4 +44,29 @@ I went to the ddesktop github. Pressed the 3 lines then clicked clone. The check
 3. [It's friday song](https://www.youtube.com/watch?v=kfVsfOSbJY0)
 * The song I play every Friday. I like to play this song to hype everyone up for the weekend.
 
+## My Mermaid Chart
+### How to Feed a Dog
+
+```mermaid 
+flowchart TD
+A[Open fridge] --> B(Get can of dog food)
+B --> C(Pick dog food up)
+C --> |Call for dog| D(put dog food on the floor)
+```
+
+### Phone call with Corin from ZZZ
+
+```mermaid
+sequenceDiagram
+actor Angel
+actor Corin
+Angel->>+Corin: Hi Corin how is the Ballet Twin towers!
+Corin->>+Angel: H-Hello Master Proxy, everything is going good over here.
+Corin-->>-Angel: I'm with ellen right now :)
+Angel->>+Corin: Cool, are you busy later?
+Corin->>+Angel: Ah, Um... I should be?
+Angel->>+Corin: Do you want to hang out on Sixth street in 3 hours?
+Corin->>+Angel: Y-Y-YEAH!!!
+Angel->>+ Corin: Ok i'll see you then :)
+```
 
